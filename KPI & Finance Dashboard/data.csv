@@ -1,0 +1,397 @@
+﻿Asset ID,Indicator,Period Group ,Clean Measure Type,First Value
+Asset A,Current Capital Tax,Annual,Actual,0
+Asset A,Current Capital Tax,Annual,Budget,0
+Asset A,Current Capital Tax,Annual,Forecast,0
+Asset A,Current Capital Tax,Annual,Variance,0
+Asset A,Current Capital Tax,YTD,Budget,0
+Asset A,Current Capital Tax,YTD,Variance,0
+Asset A,Current Income Tax,Annual,Actual,'-561
+Asset A,Current Income Tax,Annual,Budget,'-10478
+Asset A,Current Income Tax,Annual,Forecast,'-8236
+Asset A,Current Income Tax,Annual,Variance,2242
+Asset A,Current Income Tax,YTD,Budget,'-5238
+Asset A,Current Income Tax,YTD,Variance,4677
+Asset A,FF&E Amort,Annual,Actual,0
+Asset A,FF&E Amort,Annual,Budget,0
+Asset A,FF&E Amort,Annual,Forecast,0
+Asset A,FF&E Amort,Annual,Variance,0
+Asset A,FF&E Amort,YTD,Budget,0
+Asset A,FF&E Amort,YTD,Variance,0
+Asset A,Interest,Annual,Actual,'-5103200
+Asset A,Interest,Annual,Budget,'-10206400
+Asset A,Interest,Annual,Forecast,'-10206398
+Asset A,Interest,Annual,Variance,2
+Asset A,Interest,YTD,Budget,'-5103200
+Asset A,Interest,YTD,Variance,0
+Asset A,MTM Assets,Annual,Actual,0
+Asset A,MTM Assets,Annual,Budget,0
+Asset A,MTM Assets,Annual,Forecast,0
+Asset A,MTM Assets,Annual,Variance,0
+Asset A,MTM Assets,YTD,Budget,0
+Asset A,MTM Assets,YTD,Variance,0
+Asset A,MTM Debt,Annual,Actual,0
+Asset A,MTM Debt,Annual,Budget,0
+Asset A,MTM Debt,Annual,Forecast,0
+Asset A,MTM Debt,Annual,Variance,0
+Asset A,MTM Debt,YTD,Budget,0
+Asset A,MTM Debt,YTD,Variance,0
+Asset A,Net G&A,Annual,Actual,0
+Asset A,Net G&A,Annual,Budget,0
+Asset A,Net G&A,Annual,Forecast,0
+Asset A,Net G&A,Annual,Variance,0
+Asset A,Net G&A,YTD,Budget,0
+Asset A,Net G&A,YTD,Variance,0
+Asset A,Net Income,Annual,Actual,7456278
+Asset A,Net Income,Annual,Budget,15803845
+Asset A,Net Income,Annual,Forecast,16314183
+Asset A,Net Income,Annual,Variance,510338
+Asset A,Net Income,YTD,Budget,6927955
+Asset A,Net Income,YTD,Variance,528323
+Asset A,NOI,Annual,Actual,12997225
+Asset A,NOI,Annual,Budget,25087604
+Asset A,NOI,Annual,Forecast,25646694
+Asset A,NOI,Annual,Variance,559090
+Asset A,NOI,YTD,Budget,12498105
+Asset A,NOI,YTD,Variance,499120
+Asset A,Other Gain / Loss,Annual,Actual,'-339
+Asset A,Other Gain / Loss,Annual,Budget,0
+Asset A,Other Gain / Loss,Annual,Forecast,'-341
+Asset A,Other Gain / Loss,Annual,Variance,'-341
+Asset A,Other Gain / Loss,YTD,Budget,477
+Asset A,Other Gain / Loss,YTD,Variance,'-816
+Asset A,Recoverable Capital Amort,Annual,Actual,'-436847
+Asset A,Recoverable Capital Amort,Annual,Budget,933119
+Asset A,Recoverable Capital Amort,Annual,Forecast,882464
+Asset A,Recoverable Capital Amort,Annual,Variance,'-50655
+Asset A,Recoverable Capital Amort,YTD,Budget,'-462189
+Asset A,Recoverable Capital Amort,YTD,Variance,25342
+Asset B,Current Capital Tax,Annual,Actual,0
+Asset B,Current Capital Tax,Annual,Budget,0
+Asset B,Current Capital Tax,Annual,Forecast,0
+Asset B,Current Capital Tax,Annual,Variance,0
+Asset B,Current Capital Tax,YTD,Budget,0
+Asset B,Current Capital Tax,YTD,Variance,0
+Asset B,Current Income Tax,Annual,Actual,0
+Asset B,Current Income Tax,Annual,Budget,0
+Asset B,Current Income Tax,Annual,Forecast,0
+Asset B,Current Income Tax,Annual,Variance,0
+Asset B,Current Income Tax,YTD,Budget,0
+Asset B,Current Income Tax,YTD,Variance,0
+Asset B,FF&E Amort,Annual,Actual,0
+Asset B,FF&E Amort,Annual,Budget,0
+Asset B,FF&E Amort,Annual,Forecast,0
+Asset B,FF&E Amort,Annual,Variance,0
+Asset B,FF&E Amort,YTD,Budget,0
+Asset B,FF&E Amort,YTD,Variance,0
+Asset B,Interest,Annual,Actual,'-6254559
+Asset B,Interest,Annual,Budget,'-13182775
+Asset B,Interest,Annual,Forecast,'-12839161
+Asset B,Interest,Annual,Variance,343614
+Asset B,Interest,YTD,Budget,'-6304960
+Asset B,Interest,YTD,Variance,50401
+Asset B,MTM Assets,Annual,Actual,0
+Asset B,MTM Assets,Annual,Budget,0
+Asset B,MTM Assets,Annual,Forecast,0
+Asset B,MTM Assets,Annual,Variance,0
+Asset B,MTM Assets,YTD,Budget,0
+Asset B,MTM Assets,YTD,Variance,0
+Asset B,MTM Debt,Annual,Actual,0
+Asset B,MTM Debt,Annual,Budget,0
+Asset B,MTM Debt,Annual,Forecast,0
+Asset B,MTM Debt,Annual,Variance,0
+Asset B,MTM Debt,YTD,Budget,0
+Asset B,MTM Debt,YTD,Variance,0
+Asset B,Net G&A,Annual,Actual,0
+Asset B,Net G&A,Annual,Budget,0
+Asset B,Net G&A,Annual,Forecast,0
+Asset B,Net G&A,Annual,Variance,0
+Asset B,Net G&A,YTD,Budget,0
+Asset B,Net G&A,YTD,Variance,0
+Asset B,Net Income,Annual,Actual,15220346
+Asset B,Net Income,Annual,Budget,23006076
+Asset B,Net Income,Annual,Forecast,28293623
+Asset B,Net Income,Annual,Variance,5287547
+Asset B,Net Income,YTD,Budget,10560262
+Asset B,Net Income,YTD,Variance,4660084
+Asset B,NOI,Annual,Actual,22135629
+Asset B,NOI,Annual,Budget,34752530
+Asset B,NOI,Annual,Forecast,39791801
+Asset B,NOI,Annual,Variance,5039271
+Asset B,NOI,YTD,Budget,17540477
+Asset B,NOI,YTD,Variance,4595152
+Asset B,Other Gain / Loss,Annual,Actual,0
+Asset B,Other Gain / Loss,Annual,Budget,0
+Asset B,Other Gain / Loss,Annual,Forecast,0
+Asset B,Other Gain / Loss,Annual,Variance,0
+Asset B,Other Gain / Loss,YTD,Budget,0
+Asset B,Other Gain / Loss,YTD,Variance,0
+Asset B,Recoverable Capital Amort,Annual,Actual,'-660724
+Asset B,Recoverable Capital Amort,Annual,Budget,1436321
+Asset B,Recoverable Capital Amort,Annual,Forecast,1340983
+Asset B,Recoverable Capital Amort,Annual,Variance,'-95338
+Asset B,Recoverable Capital Amort,YTD,Budget,'-675255
+Asset B,Recoverable Capital Amort,YTD,Variance,14531
+Asset C,Current Capital Tax,Annual,Actual,0
+Asset C,Current Capital Tax,Annual,Budget,0
+Asset C,Current Capital Tax,Annual,Forecast,0
+Asset C,Current Capital Tax,Annual,Variance,0
+Asset C,Current Capital Tax,YTD,Budget,0
+Asset C,Current Capital Tax,YTD,Variance,0
+Asset C,Current Income Tax,Annual,Actual,0
+Asset C,Current Income Tax,Annual,Budget,'-5902
+Asset C,Current Income Tax,Annual,Forecast,'-6394
+Asset C,Current Income Tax,Annual,Variance,'-492
+Asset C,Current Income Tax,YTD,Budget,0
+Asset C,Current Income Tax,YTD,Variance,0
+Asset C,FF&E Amort,Annual,Actual,0
+Asset C,FF&E Amort,Annual,Budget,0
+Asset C,FF&E Amort,Annual,Forecast,0
+Asset C,FF&E Amort,Annual,Variance,0
+Asset C,FF&E Amort,YTD,Budget,0
+Asset C,FF&E Amort,YTD,Variance,0
+Asset C,Interest,Annual,Actual,'-2706732
+Asset C,Interest,Annual,Budget,'-5135550
+Asset C,Interest,Annual,Forecast,'-5396887
+Asset C,Interest,Annual,Variance,'-261337
+Asset C,Interest,YTD,Budget,'-2546671
+Asset C,Interest,YTD,Variance,'-160061
+Asset C,MTM Assets,Annual,Actual,0
+Asset C,MTM Assets,Annual,Budget,0
+Asset C,MTM Assets,Annual,Forecast,0
+Asset C,MTM Assets,Annual,Variance,0
+Asset C,MTM Assets,YTD,Budget,0
+Asset C,MTM Assets,YTD,Variance,0
+Asset C,MTM Debt,Annual,Actual,'-4238231
+Asset C,MTM Debt,Annual,Budget,0
+Asset C,MTM Debt,Annual,Forecast,'-1744091
+Asset C,MTM Debt,Annual,Variance,'-1744091
+Asset C,MTM Debt,YTD,Budget,0
+Asset C,MTM Debt,YTD,Variance,'-4238231
+Asset C,Net G&A,Annual,Actual,0
+Asset C,Net G&A,Annual,Budget,0
+Asset C,Net G&A,Annual,Forecast,0
+Asset C,Net G&A,Annual,Variance,0
+Asset C,Net G&A,YTD,Budget,0
+Asset C,Net G&A,YTD,Variance,0
+Asset C,Net Income,Annual,Actual,2117645
+Asset C,Net Income,Annual,Budget,11818187
+Asset C,Net Income,Annual,Forecast,10733044
+Asset C,Net Income,Annual,Variance,'-1085143
+Asset C,Net Income,YTD,Budget,5939563
+Asset C,Net Income,YTD,Variance,'-3821918
+Asset C,NOI,Annual,Actual,9005705
+Asset C,NOI,Annual,Budget,16959639
+Asset C,NOI,Annual,Forecast,17876371
+Asset C,NOI,Annual,Variance,916732
+Asset C,NOI,YTD,Budget,8486234
+Asset C,NOI,YTD,Variance,519471
+Asset C,Other Gain / Loss,Annual,Actual,56903
+Asset C,Other Gain / Loss,Annual,Budget,0
+Asset C,Other Gain / Loss,Annual,Forecast,4045
+Asset C,Other Gain / Loss,Annual,Variance,4045
+Asset C,Other Gain / Loss,YTD,Budget,0
+Asset C,Other Gain / Loss,YTD,Variance,56903
+Asset C,Recoverable Capital Amort,Annual,Actual,0
+Asset C,Recoverable Capital Amort,Annual,Budget,0
+Asset C,Recoverable Capital Amort,Annual,Forecast,0
+Asset C,Recoverable Capital Amort,Annual,Variance,0
+Asset C,Recoverable Capital Amort,YTD,Budget,0
+Asset C,Recoverable Capital Amort,YTD,Variance,0
+Asset D,Current Capital Tax,Annual,Actual,0
+Asset D,Current Capital Tax,Annual,Budget,0
+Asset D,Current Capital Tax,Annual,Forecast,0
+Asset D,Current Capital Tax,Annual,Variance,0
+Asset D,Current Capital Tax,YTD,Budget,0
+Asset D,Current Capital Tax,YTD,Variance,0
+Asset D,Current Income Tax,Annual,Actual,'-506804
+Asset D,Current Income Tax,Annual,Budget,'-1015802
+Asset D,Current Income Tax,Annual,Forecast,'-1025720
+Asset D,Current Income Tax,Annual,Variance,'-9918
+Asset D,Current Income Tax,YTD,Budget,'-507901
+Asset D,Current Income Tax,YTD,Variance,1097
+Asset D,FF&E Amort,Annual,Actual,0
+Asset D,FF&E Amort,Annual,Budget,0
+Asset D,FF&E Amort,Annual,Forecast,0
+Asset D,FF&E Amort,Annual,Variance,0
+Asset D,FF&E Amort,YTD,Budget,0
+Asset D,FF&E Amort,YTD,Variance,0
+Asset D,Interest,Annual,Actual,'-1785312
+Asset D,Interest,Annual,Budget,'-3676544
+Asset D,Interest,Annual,Forecast,'-3663671
+Asset D,Interest,Annual,Variance,12873
+Asset D,Interest,YTD,Budget,'-1838272
+Asset D,Interest,YTD,Variance,52960
+Asset D,MTM Assets,Annual,Actual,0
+Asset D,MTM Assets,Annual,Budget,0
+Asset D,MTM Assets,Annual,Forecast,0
+Asset D,MTM Assets,Annual,Variance,0
+Asset D,MTM Assets,YTD,Budget,0
+Asset D,MTM Assets,YTD,Variance,0
+Asset D,MTM Debt,Annual,Actual,'-918502
+Asset D,MTM Debt,Annual,Budget,0
+Asset D,MTM Debt,Annual,Forecast,'-92492
+Asset D,MTM Debt,Annual,Variance,'-92492
+Asset D,MTM Debt,YTD,Budget,0
+Asset D,MTM Debt,YTD,Variance,'-918502
+Asset D,Net G&A,Annual,Actual,0
+Asset D,Net G&A,Annual,Budget,0
+Asset D,Net G&A,Annual,Forecast,0
+Asset D,Net G&A,Annual,Variance,0
+Asset D,Net G&A,YTD,Budget,0
+Asset D,Net G&A,YTD,Variance,0
+Asset D,Net Income,Annual,Actual,2156181
+Asset D,Net Income,Annual,Budget,6147613
+Asset D,Net Income,Annual,Forecast,6088452
+Asset D,Net Income,Annual,Variance,'-59161
+Asset D,Net Income,YTD,Budget,3073806
+Asset D,Net Income,YTD,Variance,'-917625
+Asset D,NOI,Annual,Actual,5380116
+Asset D,NOI,Annual,Budget,10839959
+Asset D,NOI,Annual,Forecast,10883658
+Asset D,NOI,Annual,Variance,43699
+Asset D,NOI,YTD,Budget,5419979
+Asset D,NOI,YTD,Variance,'-39863
+Asset D,Other Gain / Loss,Annual,Actual,'-13317
+Asset D,Other Gain / Loss,Annual,Budget,0
+Asset D,Other Gain / Loss,Annual,Forecast,'-13323
+Asset D,Other Gain / Loss,Annual,Variance,'-13323
+Asset D,Other Gain / Loss,YTD,Budget,0
+Asset D,Other Gain / Loss,YTD,Variance,'-13317
+Asset D,Recoverable Capital Amort,Annual,Actual,0
+Asset D,Recoverable Capital Amort,Annual,Budget,0
+Asset D,Recoverable Capital Amort,Annual,Forecast,0
+Asset D,Recoverable Capital Amort,Annual,Variance,0
+Asset D,Recoverable Capital Amort,YTD,Budget,0
+Asset D,Recoverable Capital Amort,YTD,Variance,0
+Asset E,Current Capital Tax,Annual,Actual,0
+Asset E,Current Capital Tax,Annual,Budget,0
+Asset E,Current Capital Tax,Annual,Forecast,0
+Asset E,Current Capital Tax,Annual,Variance,0
+Asset E,Current Capital Tax,YTD,Budget,0
+Asset E,Current Capital Tax,YTD,Variance,0
+Asset E,Current Income Tax,Annual,Actual,0
+Asset E,Current Income Tax,Annual,Budget,0
+Asset E,Current Income Tax,Annual,Forecast,0
+Asset E,Current Income Tax,Annual,Variance,0
+Asset E,Current Income Tax,YTD,Budget,0
+Asset E,Current Income Tax,YTD,Variance,0
+Asset E,FF&E Amort,Annual,Actual,0
+Asset E,FF&E Amort,Annual,Budget,0
+Asset E,FF&E Amort,Annual,Forecast,0
+Asset E,FF&E Amort,Annual,Variance,0
+Asset E,FF&E Amort,YTD,Budget,0
+Asset E,FF&E Amort,YTD,Variance,0
+Asset E,Interest,Annual,Actual,0
+Asset E,Interest,Annual,Budget,0
+Asset E,Interest,Annual,Forecast,0
+Asset E,Interest,Annual,Variance,0
+Asset E,Interest,YTD,Budget,0
+Asset E,Interest,YTD,Variance,0
+Asset E,MTM Assets,Annual,Actual,0
+Asset E,MTM Assets,Annual,Budget,0
+Asset E,MTM Assets,Annual,Forecast,0
+Asset E,MTM Assets,Annual,Variance,0
+Asset E,MTM Assets,YTD,Budget,0
+Asset E,MTM Assets,YTD,Variance,0
+Asset E,MTM Debt,Annual,Actual,0
+Asset E,MTM Debt,Annual,Budget,0
+Asset E,MTM Debt,Annual,Forecast,0
+Asset E,MTM Debt,Annual,Variance,0
+Asset E,MTM Debt,YTD,Budget,0
+Asset E,MTM Debt,YTD,Variance,0
+Asset E,Net G&A,Annual,Actual,0
+Asset E,Net G&A,Annual,Budget,0
+Asset E,Net G&A,Annual,Forecast,0
+Asset E,Net G&A,Annual,Variance,0
+Asset E,Net G&A,YTD,Budget,0
+Asset E,Net G&A,YTD,Variance,0
+Asset E,Net Income,Annual,Actual,0
+Asset E,Net Income,Annual,Budget,0
+Asset E,Net Income,Annual,Forecast,0
+Asset E,Net Income,Annual,Variance,'-10606051
+Asset E,Net Income,YTD,Budget,0
+Asset E,Net Income,YTD,Variance,'-10758321
+Asset E,NOI,Annual,Actual,0
+Asset E,NOI,Annual,Budget,0
+Asset E,NOI,Annual,Forecast,0
+Asset E,NOI,Annual,Variance,0
+Asset E,NOI,YTD,Budget,0
+Asset E,NOI,YTD,Variance,0
+Asset E,Other Gain / Loss,Annual,Actual,0
+Asset E,Other Gain / Loss,Annual,Budget,0
+Asset E,Other Gain / Loss,Annual,Forecast,0
+Asset E,Other Gain / Loss,Annual,Variance,0
+Asset E,Other Gain / Loss,YTD,Budget,0
+Asset E,Other Gain / Loss,YTD,Variance,17
+Asset E,Recoverable Capital Amort,Annual,Actual,0
+Asset E,Recoverable Capital Amort,Annual,Budget,0
+Asset E,Recoverable Capital Amort,Annual,Forecast,0
+Asset E,Recoverable Capital Amort,Annual,Variance,0
+Asset E,Recoverable Capital Amort,YTD,Budget,0
+Asset E,Recoverable Capital Amort,YTD,Variance,0
+Asset F,Current Capital Tax,Annual,Actual,0
+Asset F,Current Capital Tax,Annual,Budget,0
+Asset F,Current Capital Tax,Annual,Forecast,0
+Asset F,Current Capital Tax,Annual,Variance,0
+Asset F,Current Capital Tax,YTD,Budget,0
+Asset F,Current Capital Tax,YTD,Variance,0
+Asset F,Current Income Tax,Annual,Actual,0
+Asset F,Current Income Tax,Annual,Budget,0
+Asset F,Current Income Tax,Annual,Forecast,0
+Asset F,Current Income Tax,Annual,Variance,0
+Asset F,Current Income Tax,YTD,Budget,0
+Asset F,Current Income Tax,YTD,Variance,0
+Asset F,FF&E Amort,Annual,Actual,0
+Asset F,FF&E Amort,Annual,Budget,0
+Asset F,FF&E Amort,Annual,Forecast,0
+Asset F,FF&E Amort,Annual,Variance,0
+Asset F,FF&E Amort,YTD,Budget,0
+Asset F,FF&E Amort,YTD,Variance,0
+Asset F,Interest,Annual,Actual,0
+Asset F,Interest,Annual,Budget,0
+Asset F,Interest,Annual,Forecast,0
+Asset F,Interest,Annual,Variance,0
+Asset F,Interest,YTD,Budget,0
+Asset F,Interest,YTD,Variance,0
+Asset F,MTM Assets,Annual,Actual,26350657
+Asset F,MTM Assets,Annual,Budget,5000000
+Asset F,MTM Assets,Annual,Forecast,26000000
+Asset F,MTM Assets,Annual,Variance,21000000
+Asset F,MTM Assets,YTD,Budget,2500000
+Asset F,MTM Assets,YTD,Variance,23850657
+Asset F,MTM Debt,Annual,Actual,0
+Asset F,MTM Debt,Annual,Budget,0
+Asset F,MTM Debt,Annual,Forecast,0
+Asset F,MTM Debt,Annual,Variance,0
+Asset F,MTM Debt,YTD,Budget,0
+Asset F,MTM Debt,YTD,Variance,0
+Asset F,Net G&A,Annual,Actual,0
+Asset F,Net G&A,Annual,Budget,0
+Asset F,Net G&A,Annual,Forecast,0
+Asset F,Net G&A,Annual,Variance,0
+Asset F,Net G&A,YTD,Budget,0
+Asset F,Net G&A,YTD,Variance,0
+Asset F,Net Income,Annual,Actual,26351297
+Asset F,Net Income,Annual,Budget,5000000
+Asset F,Net Income,Annual,Forecast,26000390
+Asset F,Net Income,Annual,Variance,21000390
+Asset F,Net Income,YTD,Budget,2500000
+Asset F,Net Income,YTD,Variance,23851297
+Asset F,NOI,Annual,Actual,0
+Asset F,NOI,Annual,Budget,0
+Asset F,NOI,Annual,Forecast,0
+Asset F,NOI,Annual,Variance,0
+Asset F,NOI,YTD,Budget,0
+Asset F,NOI,YTD,Variance,0
+Asset F,Other Gain / Loss,Annual,Actual,640
+Asset F,Other Gain / Loss,Annual,Budget,0
+Asset F,Other Gain / Loss,Annual,Forecast,390
+Asset F,Other Gain / Loss,Annual,Variance,390
+Asset F,Other Gain / Loss,YTD,Budget,0
+Asset F,Other Gain / Loss,YTD,Variance,640
+Asset F,Recoverable Capital Amort,Annual,Actual,0
+Asset F,Recoverable Capital Amort,Annual,Budget,0
+Asset F,Recoverable Capital Amort,Annual,Forecast,0
+Asset F,Recoverable Capital Amort,Annual,Variance,0
+Asset F,Recoverable Capital Amort,YTD,Budget,0
+Asset F,Recoverable Capital Amort,YTD,Variance,0
