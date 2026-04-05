@@ -1,0 +1,4 @@
+# Python 3.11+
+playwright>=1.40.0
+pandas>=2.0.0
+xlsxwriter>=3.0.0
